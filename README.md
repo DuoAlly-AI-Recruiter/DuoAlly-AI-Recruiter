@@ -10,10 +10,6 @@ We are hiring!!! Check out our job openings and apply today:
 
 ### Featured Positions:
 
-#### UI/UX Designer
-- **Role**: Design intuitive, user-friendly interfaces and improve user experiences.
-- **Link**: [View Position](https://duoally.github.io/careers/ui-ux-designer.html)
-
 #### Full Stack Web Developer
 - **Role**: Build and maintain scalable web applications using modern technologies.
 - **Link**: [View Position](https://duoally.github.io/careers/web-developer.html)
