@@ -2,7 +2,7 @@
 
 **Welcome to DuoAlly, where innovation meets opportunity!** 
 
-**We are a cutting-edge AI company dedicated to transforming the future of technology through artificial intelligence.**
+**We are a cutting-edge AI company dedicated to transforming the future of gaming through artificial intelligence.**
 
 ## 💼 Open Positions
 
