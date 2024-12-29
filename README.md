@@ -1,6 +1,6 @@
 # Hi, I'm Allison, a Technical Recruiter at DuoAlly! 🚀
 
-**Welcome to DuoAlly, where innovation meets opportunity!** 
+**Welcome to DuoAlly!** 
 
 **We are a cutting-edge AI company dedicated to transforming the future of gaming through artificial intelligence.**
 
